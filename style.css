@@ -11,4 +11,13 @@ header {
     display: flex;
     justify-content: center;
     padding: 5 px;
+    background-color: powderblue;
+}
+
+
+.proxy {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
 }
